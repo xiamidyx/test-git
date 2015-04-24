@@ -1,2 +1,8 @@
 dev dev
+<<<<<<< Updated upstream
 dev dev dev
+dev2 dev2
+=======
+dev2 dev2
+can not commit
+>>>>>>> Stashed changes
